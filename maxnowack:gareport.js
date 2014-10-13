@@ -1,1 +1,1 @@
-gareport = Npm.require('ga-report')
+Report = Npm.require('ga-report')

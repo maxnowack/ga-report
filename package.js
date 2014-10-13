@@ -11,5 +11,5 @@ Npm.depends( {
 Package.onUse(function(api) {
   api.versionsFrom('METEOR@0.9.3.1');
   api.addFiles('maxnowack:gareport.js', 'server');
-  if(api.export) api.export('gareport');
+  if(api.export) api.export('Report');
 });
